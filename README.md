@@ -31,4 +31,4 @@ execution of a method or the handling of an exception
 advised object. Types: compile-time, load-time, run-time
 9. AOP Frameworks: AOP Spring and AspectJ
 
-
+These programs contain example of how to use this technique.
