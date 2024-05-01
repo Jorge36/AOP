@@ -1,4 +1,4 @@
-Course Spring Boot 3, Spring 6 & Hibernate for Beginners on Udemly (Section 10 AOP: Aspect Oriented Programming)
+Course Spring Boot 3, Spring 6 & Hibernate for Beginners on Udemly (Section 10 AOP: Aspect Oriented Programming).
 
 <h2>Aspect-Oriented Programming</h2>
 
@@ -26,7 +26,7 @@ what action is taken and when it should be applied
 3. JoinPoints: input parameter in advice methods
 4. Pointcut expression: a predicate expression to match with name of methods (for where advice
 should be applied)
-5. ProceedingJointpoint: it is the handle which call the target method
+5. ProceedingJointpoint: it is the handle which call the target method (https://www.baeldung.com/aspectj-joinpoint-proceedingjoinpoint)
 6. Target method: business method
 7. Join Point: a point during the execution of a program such as the
 execution of a method or the handling of an exception
