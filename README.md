@@ -1,4 +1,4 @@
-Course Spring Boot 3, Spring 6 & Hibernate for Beginners on Udemly
+Course Spring Boot 3, Spring 6 & Hibernate for Beginners on Udemly (Section 10 AOP: Aspect Oriented Programming)
 
 <h2>Aspect-Oriented Programming</h2>
 
@@ -6,8 +6,9 @@ Programming technique based on concept of an Aspect.
 
 Aspect encapsulate cross-cutting-logic.
 
-Concerns cannot be descomposed from the rest of the systems and it can result in code duplication, significant dependencies between systems or both.
-For example: logging a history of changes to the record database or user database, an authentication system, security, exception handling, etc.
+Concerns are the different aspects of functionality that the software system provides. Separation of Concerns (SoC) is a design principle that manages complexity by partitioning the software system so that each partition is responsible for a separate concern, minimizing the overlap of concerns as much as possible.
+
+Concerns cannot be descomposed from the rest of the systems and it can result in code duplication, significant dependencies between systems or both. For example: logging a history of changes to the record database or user database, an authentication system, security, exception handling, etc.
 
 Advices Types:
 
