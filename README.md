@@ -11,11 +11,11 @@ For example: logging a history of changes to the record database or user databas
 
 Advices Types:
 
-Before advice: run before the method
-After finally advice: run after the method (finally)
-After returning advice: run after the method (success execution)
-After throwing advice: run after method (if exception thrown)
-Around advice: run before and after method
+Before advice: run before the method </br>
+After finally advice: run after the method (finally) </br>
+After returning advice: run after the method (success execution) </br>
+After throwing advice: run after method (if exception thrown) </br>
+Around advice: run before and after method </br>
 
 Concepts:
 
