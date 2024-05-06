@@ -35,3 +35,7 @@ advised object. Types: compile-time, load-time, run-time
 9. AOP Frameworks: AOP Spring and AspectJ
 
 These programs contain example of how to use this technique.
+Result after running spring-demo-app is:
+
+[!alt_text](https://github.com/Jorge36/AOP/blob/80a1c7ff23f897dd354ecaf5ad22bdb9f8e37d7c/AOP.png)
+
